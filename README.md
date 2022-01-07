@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Seth Addo</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-<p align="left"> <img src="" alt="seth" /> </p>
+<p align="left"> <img src="https://pbs.twimg.com/profile_images/1474779608088252418/iSh0Iy90.jpg" alt="seth" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Website](https://www.seths10.github.io/Portfolio)
 
