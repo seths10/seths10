@@ -1,7 +1,7 @@
 > ## Hello, I'm Seth Addo 🐱‍💻
 I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
-<!-- <p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=0e75b6&style=plastic" alt="seths10" /> </p> -->
+<p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=yellow&style=flat" alt="seths10" /> </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
@@ -18,9 +18,9 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <br />
 
 <div style="display:flex; justify-content: space-between">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seths10&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seths10&theme=ayu-mirage&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=seths10&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seths10&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49%"/>
 
 </div>  
 <br/>
@@ -53,6 +53,3 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=markdown"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seths10&theme=react-dark)
