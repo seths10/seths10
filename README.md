@@ -3,7 +3,7 @@
 > ## Hello, I'm Seth Addo 🐱‍💻
 I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="50%" height="200px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
 
 ⚡ I'm currently working on life 😉
 🔭  is what I'm learning now  
