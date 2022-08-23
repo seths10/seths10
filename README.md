@@ -1,41 +1,51 @@
-<h1 align="center">Hi , I'm Seth Addo</h1>
-<h3 align="center">A Frontend Developer</h3>
+> ## Hello, I'm Seth Addo 🐱‍💻
+I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=0e75b6&style=plastic" alt="seths10" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://www.seths10.github.io/Portfolio)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
-- 🌱 I’m currently learning **React**
+⚡ I'm currently working on life 😉
+🔭  is what I'm learning now  
+🌱 Find all about me on my [website](https://seths10.github.io/main-portfolio/)  
+👯 Would love to collaborate on any cool web project    
+💬 Apart from tech, we can talk about movies and football  
+✏️ I author technical content on [dev](https://dev.to/seths10) and [hashnode](https://sethaddo.hashnode.dev)
+📫 Reach me on [linkedin](https://www.linkedin.com/in/seth-addo-034327190/) and [twitter](https://twitter.com/set_addo)   
+🎉 Movies, Sports and Coding is my love triangle
 
-- 💬 Ask me about **Web**
+<br />
+<br />
 
-- 📫 How to reach me **addoseth82@gmail.com**
+<div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seths10&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
-- 📄 To know about my experiences [**click here**](http://www.github.com/seths10)
+<img src="https://github-readme-stats.vercel.app/api?username=seths10&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seth-addo-034327190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/qweku_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/set_addo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="twitter" height="30" width="40" /></a>
-</p>
+</div>  
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="70" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+> ## Programming Languages
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&langs_count=5&theme=tokyonight)]()
+<img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=go"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=seths10&count_private=true&theme=tokyonight&showicons=true)]()
+> ## Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=googlecloud"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seths10&theme=react-dark) -->
