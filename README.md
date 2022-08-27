@@ -26,7 +26,7 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 </div>  
 <br/>
 
-> ## Programming Languages
+> ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <br/>
 <br/>
 
-> ## Tools & Frameworks
+> ### Tools & Frameworks
 
 <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,6 +58,6 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <br/>
 <br/>
 
-> ## Blog posts
+> ### 📙 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
