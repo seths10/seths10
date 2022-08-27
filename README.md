@@ -55,7 +55,8 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <img src="https://skillicons.dev/icons?i=markdown"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+<br/>
+<br/>
 
 > ## Blog posts
 <!-- BLOG-POST-LIST:START -->
