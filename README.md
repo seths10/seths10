@@ -63,6 +63,4 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 - [How to Write a Great Resume](https://dev.to/seths10/how-to-write-a-great-resume-436e)
 - [How To Activate &quot;God Mode&quot; on Windows](https://dev.to/seths10/how-to-activate-god-mode-on-windows-26n3)
 - [The Best Productivity Tools You Will Ever Need](https://dev.to/seths10/the-best-productivity-tools-you-will-ever-need-3km9)
-- [10 GitHub Repositories You Should Know](https://dev.to/seths10/10-github-repositories-you-should-know-1ce7)
-- [CrowdSource Vocalize Campaign &lpar;Earn Free Goodies&rpar;](https://dev.to/seths10/crowdsource-vocalize-campaign-earn-free-goodies-40fh)
 <!-- BLOG-POST-LIST:END -->
