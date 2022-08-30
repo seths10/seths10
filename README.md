@@ -1,4 +1,4 @@
-<p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=yellow&style=flat" alt="seths10" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=green&style=flat" alt="seths10" /> </p>
 
 > ## Hello, I'm Seth Addo 🐱‍💻
 I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
