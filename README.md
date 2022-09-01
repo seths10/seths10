@@ -5,7 +5,7 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
 
-⚡ I'm currently working on life 😉
+⚡ I'm currently working on life 😉   and 
 🔭  is what I'm learning now  
 🌱 Find all about me on my [website](https://seths10.github.io/main-portfolio/)  
 👯 Would love to collaborate on any cool web project    
