@@ -13,7 +13,7 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 ✏️ I author technical content on [dev](https://dev.to/seths10) and [hashnode](https://sethaddo.hashnode.dev)     
 🎈 I use tabs over spaces   
 📫 Reach me on [linkedin](https://www.linkedin.com/in/seth-addo-034327190/) and [twitter](https://twitter.com/set_addo)   
-🎉 Movies, Sports and Coding is my love triangle  
+🎉 Movies, Football and Coding is my love triangle  
 
 <br />
 <br />
