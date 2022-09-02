@@ -1,7 +1,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=green&style=flat" alt="seths10" /> </p>
 
 > ## Hello, I'm Seth Addo 🐱‍💻
-I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
+I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack applications for the web and mobile
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
 
@@ -35,6 +35,7 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=typescript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bash"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=markdown"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
 
@@ -52,7 +53,6 @@ I'm a **Software Engineer** who builds resilient ui/ux and robust fullstack appl
 <img src="https://skillicons.dev/icons?i=tailwindcss"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=markdown"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
