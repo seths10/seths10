@@ -61,7 +61,7 @@ I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack appli
 
 > ### 📙 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spin up a full text editor in your browser 🌐 with GitHub Codespaces](https://dev.to/seths10/spin-up-a-full-text-editor-in-your-browser-with-github-codespaces-17am)
 - [Hacktoberfest - Get Gifts By Contributing To Open Source Repos](https://dev.to/seths10/hacktoberfest-get-gifts-by-contributing-to-open-source-repos-435l)
 - [How to Write a Great Resume](https://dev.to/seths10/how-to-write-a-great-resume-436e)
-- [How To Activate &quot;God Mode&quot; on Windows](https://dev.to/seths10/how-to-activate-god-mode-on-windows-26n3)
 <!-- BLOG-POST-LIST:END -->
