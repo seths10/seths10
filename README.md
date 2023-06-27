@@ -1,7 +1,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=blue&style=for-the-badge" alt="seths10" /> </p>
 
 > ## Hello, I'm Seth Addo 🐱‍💻
-I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack applications for the web and mobile.
+I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack applications for the web and mobile
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
 
