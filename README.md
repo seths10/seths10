@@ -8,7 +8,7 @@ I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack appli
 ⚡ I'm currently working on life 😉   
 🔭 DevOps is what I'm learning now  
 🌱 Find all about me on my [website](https://seth-addo-portfolio.webflow.io/)  
-👯 Would love to collaborate on any cool web project    
+👯 Would love to collaborate on any cool project    
 💬 Apart from tech, we can talk about movies and football  
 ✏️ I author technical content on [dev](https://dev.to/seths10) and [hashnode](https://sethaddo.hashnode.dev)     
 🎈 I use tabs over spaces   
