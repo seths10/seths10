@@ -6,7 +6,7 @@ I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack appli
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
 
 ⚡ I'm currently working on life 😉   
-🔭 DevOps is what I'm learning now  
+🔭 Docker is what I'm learning now  
 🌱 Find all about me on my [website](https://seth-addo-portfolio.webflow.io/)  
 👯 Would love to collaborate on any cool project    
 💬 Apart from tech, we can talk about movies and football  
