@@ -59,7 +59,7 @@ I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack appli
 
 > ### 📙 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Chrome Hero: How to Build and Launch Your Own Browser Extension](https://dev.to/seths10/from-zero-to-chrome-hero-how-to-build-and-launch-your-own-browser-extension-5ba8)
 - [What is this weird CSS Syntax?](https://dev.to/seths10/what-is-this-weird-css-syntax-44ki)
 - [Spin up a full text editor in your browser 🌐 with GitHub Codespaces](https://dev.to/seths10/spin-up-a-full-text-editor-in-your-browser-with-github-codespaces-17am)
-- [Hacktoberfest - Get Gifts By Contributing To Open Source Repos](https://dev.to/seths10/hacktoberfest-get-gifts-by-contributing-to-open-source-repos-435l)
 <!-- BLOG-POST-LIST:END -->
