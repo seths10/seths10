@@ -1,4 +1,5 @@
-<p style="text-align: center; font-weight: 500; font-size: 16px;">Hello, I'm Seth Addo 🐱‍💻</p>
+## Hello, I'm Seth Addo 🐱‍💻
+
 I'm a **Software Engineer**, I build fullstack applications for the web and mobile
 
 
