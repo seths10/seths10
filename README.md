@@ -1,31 +1,20 @@
-<p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=blue&style=for-the-badge" alt="seths10" /> </p>
+<p style="text-align: center; font-weight: 500; font-size: 16px;">Hello, I'm Seth Addo 🐱‍💻</p>
+I'm a **Software Engineer**, I build fullstack applications for the web and mobile
 
-> ## Hello, I'm Seth Addo 🐱‍💻
-I'm a **Software Engineer**, I builds resilient ui/ux and robust fullstack applications for the web and mobile
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" height="200px"/>
-
-⚡ I'm currently working on life 😉   
-🔭 Docker is what I'm learning now  
 🌱 Find all about me on my [website](https://ethr.vercel.app/)  
 👯 Would love to collaborate on any cool project    
-💬 Apart from tech, we can talk about movies and football  
 ✏️ I author technical content on [dev](https://dev.to/seths10) and [hashnode](https://sethaddo.hashnode.dev)     
-🎈 I use tabs over spaces   
 📫 Reach me on [linkedin](https://www.linkedin.com/in/seth-addo-034327190/) and [twitter](https://twitter.com/set_addo)   
 🎉 Movies, Football and Coding is my love triangle  
 
 <br />
-<br />
-<br />
 
-<div style="display:flex; justify-content: space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seths10&theme=ayu-mirage&hide_border=true" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seths10&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
-
+<div style="display:flex; align-items: center; justify-content: space-between; gap: 16px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seths10&theme=ayu-mirage&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seths10&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true"/>
 </div>  
 
-<br/>
 <br/>
 
 > ### 📙 Latest blog posts
